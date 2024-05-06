@@ -71,7 +71,8 @@ main :: func(): void {
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=munific&show_icons=true&hide_border=true)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=adolfmukama&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfmukama_count=5&theme=tokyonight)]()
 
 
 
@@ -80,7 +81,7 @@ main :: func(): void {
 
 # Publications
 - Comparison of Deep Learning Techniques in Detection of Sickle Cell Disease. Artificial Intelligence and Applications
-  __  __     https://doi.org/10.47852/bonviewAIA3202853   __  __
+    https://doi.org/10.47852/bonviewAIA3202853  
   
 - Antimicrobial Activity of Warburgia ugandensis on Selected Standard Organisms that Cause Urinary Tract Infections
-  __  __     https://doi.org/10.9734/jamb/2023/v23i3714   __  __
+     https://doi.org/10.9734/jamb/2023/v23i3714   
