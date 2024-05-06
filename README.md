@@ -1,7 +1,7 @@
 # Hello, I'm Adolf!
 
 - I am currently doing a Masters in Bioinformatics at Pwani University - Kenya
-- 𝗜 ❤️ 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻g!
+- `I ❤️ Programming!`
 
 ```julia
 module main
