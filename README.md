@@ -14,7 +14,7 @@ aboutMe :: struct {
 }
 
 main :: func(): void {
-  ethan :: aboutMe = {
+  Adolf :: aboutMe = {
     pronouns: ["He", "Him"],
     languages: ["R", "Bash scripting", "Python"],
     hobbies: ["Coding", "Hiking", "Swimming"],
@@ -33,17 +33,14 @@ main :: func(): void {
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗖</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
       </td>
       <td width="25%" align="center">
         <span>Bash</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+        <img height="64px" src="https://cdn.pixabay.com/photo/2013/07/13/13/41/bash-161382_1280.png" alt="Image description">
       </td>
       <td width="25%" align="center">
         <span>R</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <img height="70px" src="https://th.bing.com/th/id/OIP.XuMcVejVKwC7rk9sV4FTEwHaFv?rs=1&pid=ImgDetMain">
       </td>
       <td width="25%" align="center">
         <span>Python</span><br><br><br>
@@ -51,9 +48,6 @@ main :: func(): void {
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
