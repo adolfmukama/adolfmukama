@@ -16,8 +16,8 @@ aboutMe :: struct {
 main :: func(): void {
   Adolf :: aboutMe = {
     pronouns: ["He", "Him"],
-    languages: ["R", "Bash scripting", "Python"],
-    hobbies: ["Coding", "Hiking", "Swimming"],
+    languages: ["R", "Bash scripting", "Sql", "Python"],
+    hobbies: ["Coding", "Hiking", "Biking", "Swimming"],
     funFact: "47% of professional developers use Linux-based operating systems"
   };
 
