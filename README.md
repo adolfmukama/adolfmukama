@@ -1,6 +1,6 @@
 # Hello, I'm Adolf!
 
-- I am currently doing a Masters in Bioinformatics at Pwani University - Kenya
+- I am a PhD candidate at KEMRI-Wellcome Trust Programme - Kenya
 - `I ❤️ Programming!`
 
 ```julia
